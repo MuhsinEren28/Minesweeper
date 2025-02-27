@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\May\u0131nTarlas\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF84B77-B416-4BB2-913D-DE537505B426}|May\u0131nTarlas\u0131.csproj|c:\\users\\ereno\\onedrive\\masa\u00FCst\u00FC\\may\u0131ntarlas\u0131\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9EF84B77-B416-4BB2-913D-DE537505B426}|May\u0131nTarlas\u0131.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF84B77-B416-4BB2-913D-DE537505B426}|May\u0131nTarlas\u0131.csproj|C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\May\u0131nTarlas\u0131\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EF84B77-B416-4BB2-913D-DE537505B426}|May\u0131nTarlas\u0131.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF84B77-B416-4BB2-913D-DE537505B426}|May\u0131nTarlas\u0131.csproj|C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\May\u0131nTarlas\u0131\\oyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF84B77-B416-4BB2-913D-DE537505B426}|May\u0131nTarlas\u0131.csproj|solutionrelative:oyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF84B77-B416-4BB2-913D-DE537505B426}|May\u0131nTarlas\u0131.csproj|C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\May\u0131nTarlas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF84B77-B416-4BB2-913D-DE537505B426}|May\u0131nTarlas\u0131.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\May\u0131nTarlas\u0131\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\May\u0131nTarlas\u0131\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:34:23.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\May\u0131nTarlas\u0131\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\May\u0131nTarlas\u0131\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-25T10:34:20.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Oyun.cs",
+              "DocumentMoniker": "C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\May\u0131nTarlas\u0131\\Oyun.cs",
+              "RelativeDocumentMoniker": "Oyun.cs",
+              "ToolTip": "C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\May\u0131nTarlas\u0131\\Oyun.cs",
+              "RelativeToolTip": "Oyun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:34:19.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\May\u0131nTarlas\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ereno\\OneDrive\\Masa\u00FCst\u00FC\\May\u0131nTarlas\u0131\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:34:16.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
